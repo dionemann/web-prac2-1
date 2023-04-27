@@ -1,0 +1,59 @@
+a{
+    color: #fff;
+    text-decoration: none;
+}
+
+body{
+    margin: 0;
+    padding: 0 15px;
+    display: flex;
+    flex-direction: column;
+    flex: auto;
+    background: url("img/back.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+.name {
+    position: relative;
+    margin-left: 950px;
+
+}
+.me {
+    position: relative;
+    margin-left: 950px;
+}
+
+.eith {
+    position: relative;
+    margin-left: 850px;
+    font-size: 20px;
+    font-weight: 600;
+    max-width: 500px;
+}
+.born {
+    position: relative;
+    margin-left: 850px;
+    font-size: 20px;
+    font-weight: 600;
+    max-width: 500px;
+}
+.h2 {
+    position: relative;
+    margin-left: 950px;
+}
+.inst {
+    position: relative;
+    margin-left: 950px;
+}
+.ol, li {
+    position: relative;
+    margin-left: 950px;
+    font-size: 20px;
+}
+.fact{
+    position: relative;
+    margin-left: 950px;
+    font-size: 20px;
+    font-weight: 600;
+    max-width: 500px;
+}
